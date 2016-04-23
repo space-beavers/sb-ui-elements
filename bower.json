@@ -1,0 +1,8 @@
+{
+  "name": "sb-ui-elements",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "sb-youtube-button": "https://github.com/space-beavers/sb-youtube-button.git"
+  }
+}
