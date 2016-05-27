@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "sb-youtube-button": "https://github.com/space-beavers/sb-youtube-button.git",
-    "sb-voting-grid": "https://github.com/space-beavers/sb-voting-grid.git"
+    "sb-voting-grid": "https://github.com/space-beavers/sb-voting-grid.git",
+    "sb-button": "https://github.com/space-beavers/sb-button.git"
   }
 }
