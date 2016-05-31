@@ -3,7 +3,7 @@ title: How to use E-commerce UI Elements to build amazing pages!
 summary: "Learn how to add drop-in components to any page supported by components."
 tags: ['ecommerce','buttons', 'beginner']
 elements: ['sb-button', 'sb-dialog', 'sb-youtube-button', 'featured-articles']
-updated: 2015-04-10
+updated: 2016-06-01
 ---
 
 UI Elements are available globally on the following channels:
