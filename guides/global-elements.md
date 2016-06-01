@@ -6,6 +6,8 @@ elements: ['sb-button', 'sb-dialog', 'sb-youtube-button', 'featured-articles']
 updated: 2016-06-01
 ---
 
+# UI Elements
+
 UI Elements are available globally on the following channels:
 * Site 1
 * Internal application
